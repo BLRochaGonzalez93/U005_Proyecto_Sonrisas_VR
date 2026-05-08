@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7652516938e73044792137840d43e0d2, type: 3}
+  m_Name: B_Down_1Floor
+  m_EditorClassIdentifier: 
+  ID: 11
+  railName: Down_1Floor
+  type: 2
+  canBeSelected: 1
+  countForCD: 1
+  cooldown: 0
+  MeshPrefab: {fileID: 6848098183376504866, guid: cd4edd89bfd7f9e4896cd5eca9a94a29, type: 3}
+  splinePrefab: {fileID: 8247462105714677604, guid: 5f15ad85d45e75f4ca925e8ea68006ea, type: 3}
+  finalRotation: 0

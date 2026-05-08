@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7652516938e73044792137840d43e0d2, type: 3}
+  m_Name: A_Curve45_Right
+  m_EditorClassIdentifier: 
+  ID: 3
+  railName: Curve45_Right
+  type: 1
+  canBeSelected: 1
+  countForCD: 1
+  cooldown: 0
+  MeshPrefab: {fileID: 5756004937933208591, guid: d2836a226ae403445bbec04d82a2d589, type: 3}
+  splinePrefab: {fileID: 4589582414804670669, guid: de24d6d920872c54da34e9ab860eac21, type: 3}
+  finalRotation: 1

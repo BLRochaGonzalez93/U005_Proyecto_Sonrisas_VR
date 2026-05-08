@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7652516938e73044792137840d43e0d2, type: 3}
+  m_Name: B_Hill
+  m_EditorClassIdentifier: 
+  ID: 22
+  railName: Hill
+  type: 2
+  canBeSelected: 1
+  countForCD: 1
+  cooldown: 0
+  MeshPrefab: {fileID: 8893491017946609199, guid: c1c750ea3156b9e41b173d7f24f197c8, type: 3}
+  splinePrefab: {fileID: 5403523575316665407, guid: 28af90a24815a444b923581558b6fd94, type: 3}
+  finalRotation: 0
