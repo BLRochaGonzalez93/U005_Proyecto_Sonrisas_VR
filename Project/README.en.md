@@ -57,7 +57,7 @@ The user participates in several immersive scenes with controller-based interact
 
 Planned path:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
@@ -76,14 +76,14 @@ The main logic is divided into:
 
 ## Recommended code to review
 
-- [`Project/Assets/Scripts/SplineEditor.cs`](./Project/Assets/Scripts/SplineEditor.cs)
-- [`Project/Assets/Scripts/PropsRandomGenerator.cs`](./Project/Assets/Scripts/PropsRandomGenerator.cs)
-- [`Project/Assets/Scripts/Rail.cs`](./Project/Assets/Scripts/Rail.cs)
-- [`Project/Assets/Scripts/RailPositionerManager.cs`](./Project/Assets/Scripts/RailPositionerManager.cs)
-- [`Project/Assets/Scripts/RailSelectorManagement.cs`](./Project/Assets/Scripts/RailSelectorManagement.cs)
-- [`Project/Assets/Scripts/SplineAdvanced.cs`](./Project/Assets/Scripts/SplineAdvanced.cs)
-- [`Project/Assets/Scripts/SplineFollower.cs`](./Project/Assets/Scripts/SplineFollower.cs)
-- [`Project/Assets/Scripts/SplineMesh.cs`](./Project/Assets/Scripts/SplineMesh.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/SplineEditor.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/SplineEditor.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/PropsRandomGenerator.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/PropsRandomGenerator.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/Rail.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/Rail.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/RailPositionerManager.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/RailPositionerManager.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/RailSelectorManagement.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/RailSelectorManagement.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/SplineAdvanced.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/SplineAdvanced.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/SplineFollower.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/SplineFollower.cs)
+[`PRJ_ProyectoSonrisas/Assets/Scripts/SplineMesh.cs`](./PRJ_ProyectoSonrisas/Assets/Scripts/SplineMesh.cs)
 
 ## Build
 

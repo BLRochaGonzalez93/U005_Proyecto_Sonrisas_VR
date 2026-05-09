@@ -75,4 +75,4 @@ Demo funcional VR archivada.
 
 ## Repositorio
 
-[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U010_Sokar/U005_Proyecto_Sonrisas_VR)
+[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U005_Proyecto_Sonrisas_VR)

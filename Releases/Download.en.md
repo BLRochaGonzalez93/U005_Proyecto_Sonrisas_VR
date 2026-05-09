@@ -75,4 +75,4 @@ Archived functional VR demo.
 
 ## Repository
 
-[View project repository](https://github.com/BLRochaGonzalez93/U010_Sokar/U005_Proyecto_Sonrisas_VR)
+[View project repository](https://github.com/BLRochaGonzalez93/U005_Proyecto_Sonrisas_VR)
