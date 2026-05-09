@@ -4,9 +4,9 @@
 
 ## Summary
 
-**Proyecto Sonrisas VR** is a functional VR demo developed in Unity with C#, aimed at a child audience. The project combines a therapeutic, educational and playful approach through an immersive experience with several scenes, object interaction, guided elements and small challenges within the virtual environment.
+Functional VR demo developed in Unity with C#, aimed at a child audience and designed as a therapeutic, educational and playful experience.
 
-The experience includes interaction through VR controllers, world-space UI, spatial audio, visual and audio feedback, particles, animations, NPCs, objectives, scenes and menus. It also includes enemies represented as signs that the player can defeat by throwing tomatoes at them.
+The user participates in several immersive scenes with controller-based interaction, manipulable objects, guided elements, objectives, NPCs and enemies represented as signs that can be defeated by throwing tomatoes at them.
 
 ## Technologies
 
@@ -29,19 +29,17 @@ The experience includes interaction through VR controllers, world-space UI, spat
 
 ## Main features
 
-- VR experience aimed at a child audience.
-- Therapeutic, educational and playful approach.
-- Oculus Rift support.
+- VR experience for Oculus Rift.
 - Windows target build.
+- Child-oriented, therapeutic, educational and playful approach.
+- Several scenes.
 - VR Rig.
 - Continuous movement.
-- Smooth turning.
-- Snap turning.
+- Smooth turning and snap turning.
 - Interaction with hands/controllers.
-- Grab and release objects.
-- Object activation.
+- Grab, release and activate objects.
 - Ray interaction.
-- UI integrated in 3D world space.
+- World-space UI.
 - Spatial audio.
 - Visual and audio feedback.
 - Particles and animations.
@@ -50,38 +48,35 @@ The experience includes interaction through VR controllers, world-space UI, spat
 - Scene system.
 - Menu system.
 - Pause.
-- Accessibility and comfort considerations.
+- Accessibility and comfort.
 - Sign-like enemies defeated by throwing tomatoes.
-- Several scenes within the experience.
 
-## Visuals
+## Screenshots
 
-> Final screenshots and images pending.
+> Final screenshots pending.
 
-Planned visual pack names:
+Planned path:
 
-- `proyectosonrisas-logo.png`
-- `proyectosonrisas-cover.png`
-- `proyectosonrisas-banner.png`
-- `proyectosonrisas-thumbnail-01-vr-scene.png`
-- `proyectosonrisas-thumbnail-02-object-interaction.png`
-- `proyectosonrisas-thumbnail-03-tomato-targets.png`
-- `proyectosonrisas-thumbnail-04-comfort-design.png`
+![Gameplay](./Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
 The main logic is divided into:
 
 - `LevelSelector` — scene or level selection.
-- `MovementToPortal` — movement or transition toward portals.
+- `MovementToPortal` — transition or movement toward portals.
 - `SplineEditor` — spline editing and configuration.
-- `PropsRandomGenerator` — random generation of props or elements.
+- `PropsRandomGenerator` — random prop generation.
 - `Rail` — rail or route definition.
 - `RailPositionerManager` — position management over rails.
 - `RailSelectorManagement` — rail selection and control.
 - `SplineAdvanced` — advanced spline logic.
 - `SplineFollower` — spline path following.
 - `SplineMesh` — mesh representation or generation based on splines.
+
+More information:
+
+[`Docs/Architecture.md`](./Docs/Architecture.md)
 
 ## Recommended code to review
 
@@ -104,7 +99,7 @@ There is currently no public release available.
 
 **Archived functional VR demo.**
 
-The project has a functional VR experience base with several scenes, object interaction, objective system, guided elements, sign-like enemies, tomato throwing, world-space UI, spatial audio, visual and audio feedback, particles, animations, menu system and pause.
+The project includes a functional base for Oculus Rift with VR scenes, movement, turning, hand/controller interaction, ray interaction, objects, objectives, NPCs, sign-like enemies, tomato throwing, world-space UI, spatial audio, feedback, particles, animations, menu and pause.
 
 Possible pending improvements:
 
@@ -123,10 +118,10 @@ Possible pending improvements:
 
 ## Learnings
 
-This project allowed me to practice setting up a VR environment in Unity, including VR Rig, controllers, locomotion, object interaction and adapting the experience to an immersive environment.
+This project allowed me to practice setting up a VR environment in Unity, including VR Rig, controllers, locomotion and adapting interaction to virtual reality.
 
-It also helped me work on 3D object interaction, world-space UI, spatial audio and visual/audio feedback specific to virtual reality.
+It also helped me work on 3D object interaction, world-space UI, spatial audio and visual/audio feedback.
 
-In addition, the project helped me explore the design of an immersive experience aimed at a child audience, taking accessibility, comfort, interaction clarity and guided objectives into account.
+In addition, the project helped me design an immersive experience aimed at a child audience, taking accessibility, comfort, interaction clarity and guided objectives into account.
 
-Finally, working with splines, rails and element generation allowed me to practice technical systems applied to pathing, guided movement and VR scene organization.
+Finally, working with splines, rails and prop generation allowed me to practice technical systems applied to paths, guided movement and scene organization.
