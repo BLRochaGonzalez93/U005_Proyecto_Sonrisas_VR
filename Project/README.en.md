@@ -74,10 +74,6 @@ The main logic is divided into:
 - `SplineFollower` — spline path following.
 - `SplineMesh` — mesh representation or generation based on splines.
 
-More information:
-
-[`Docs/Architecture.md`](./Docs/Architecture.md)
-
 ## Recommended code to review
 
 - [`Project/Assets/Scripts/SplineEditor.cs`](./Project/Assets/Scripts/SplineEditor.cs)

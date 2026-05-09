@@ -74,10 +74,6 @@ La lógica principal se divide en:
 - `SplineFollower` — seguimiento de trayectorias spline.
 - `SplineMesh` — representación o generación de mallas basadas en splines.
 
-Más información en:
-
-[`Docs/Architecture.md`](./Docs/Architecture.md)
-
 ## Código recomendado para revisar
 
 - [`Project/Assets/Scripts/SplineEditor.cs`](./Project/Assets/Scripts/SplineEditor.cs)
